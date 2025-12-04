@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"slices"
 	"os"
-	// "strings"
 )
 
 func GetLargestJoltage(bank string) int {
